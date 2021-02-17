@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/FIREBASE-ANDROIDSTUDIO/blob/main/images/tent.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/FIREBASE-ANDROIDSTUDIO/blob/main/drawable/tent.png" alt="Logo" width="150" height="150">
   <h3 align="center">Event Booker</h3>
   <p align="center">
     <a href="https://developer.android.com/studio"><strong>Android Studio App</strong></a>
