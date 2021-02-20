@@ -102,7 +102,7 @@ akashcse2000@gmail.com,\
 Chennai.
 
 
-![GitHub metrics](http://metrics.lecoq.io/Akash-Peace)  
+![GitHub metrics](https://metrics.lecoq.io/Akash-Peace)  
 
 Follow me on
 
