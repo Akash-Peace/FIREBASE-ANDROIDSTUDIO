@@ -22,12 +22,13 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#powered-by">Powered by</a></li>
+    <li><a href="#powered-by">Powered By</a></li>
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#my-system-spec">My System Spec</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -45,7 +46,7 @@ Event Booker project objective is to create and participate in events. As mentio
 * [Java](https://www.java.com/en/)
 * [XML](https://developer.android.com/guide/topics/ui/declaring-layout)
 
-## Powered by
+## Powered By
 
 * [Firebase Firestore](https://firebase.google.com/)
 
@@ -80,6 +81,25 @@ View [Screenshots](https://github.com/Akash-Peace/FIREBASE-ANDROIDSTUDIO/tree/ma
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/FIREBASE-ANDROIDSTUDIO/blob/main/LICENSE) for more information.
 
+
+## My System Spec
+
+**OS:** [Zorin](https://zorinos.com/)\
+**Model:** Acer Aspire 5 A515-51G\
+**Processor:** Intel i5 7th gen\
+**Ram:** DDR4 8gb\
+**Disk:** HDD 100gb
+
+
+<!-- CONTACT -->
+## Contact
+
+Akash.A,\
+Rajalakshmi Engineering College,\
+Computer Science Engineer,\
+akashcse2000@gmail.com,\
+8608550403,\
+Chennai.
 
 
 <!-- CONTACT -->
